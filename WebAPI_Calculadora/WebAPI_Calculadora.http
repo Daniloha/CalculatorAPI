@@ -1,0 +1,6 @@
+@WebAPI_Calculadora_HostAddress = http://localhost:5049
+
+GET {{WebAPI_Calculadora_HostAddress}}/calculator/
+Accept: application/json
+
+###

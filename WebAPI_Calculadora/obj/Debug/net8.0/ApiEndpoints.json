@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "WebAPI_Calculadora.Controllers.CalculatorController",
+    "Method": "Div",
+    "RelativePath": "Calculator/division/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Calculadora.Controllers.CalculatorController",
+    "Method": "Mean",
+    "RelativePath": "Calculator/mean/{firstNumber}/{secondNumber}/{thirdnumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "thirdnumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Calculadora.Controllers.CalculatorController",
+    "Method": "Prod",
+    "RelativePath": "Calculator/product/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Calculadora.Controllers.CalculatorController",
+    "Method": "Square",
+    "RelativePath": "Calculator/rsquare/{Number}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Number",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Calculadora.Controllers.CalculatorController",
+    "Method": "Sub",
+    "RelativePath": "Calculator/subtraction/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI_Calculadora.Controllers.CalculatorController",
+    "Method": "Get",
+    "RelativePath": "Calculator/sum/{firstNumber}/{secondNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "secondNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

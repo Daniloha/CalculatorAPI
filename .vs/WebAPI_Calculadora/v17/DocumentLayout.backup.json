@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nilo_\\source\\repos\\WebAPI_Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BEBDF-4901-4705-BDDA-C86D703FB625}|WebAPI_Calculadora\\WebAPI_Calculadora.csproj|c:\\users\\nilo_\\source\\repos\\webapi_calculadora\\webapi_calculadora\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BEBDF-4901-4705-BDDA-C86D703FB625}|WebAPI_Calculadora\\WebAPI_Calculadora.csproj|solutionrelative:webapi_calculadora\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\source\\repos\\WebAPI_Calculadora\\WebAPI_Calculadora\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Calculadora\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\nilo_\\source\\repos\\WebAPI_Calculadora\\WebAPI_Calculadora\\Controllers\\CalculatorController.cs*",
+              "RelativeToolTip": "WebAPI_Calculadora\\Controllers\\CalculatorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:46:32.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
